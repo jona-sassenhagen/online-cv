@@ -79,7 +79,7 @@ projects:
       - project:
         title: Minor Contributions
         link: "https://github.com/jona-sassenhagen/"
-        tagline: "I have made minor contributions to scikit-learn, nilearn, scipy ..."
+        tagline: "I have made minor contributions to [scikit-learn](https://github.com/scikit-learn/scikit-learn), [nilearn](https://github.com/nilearn/nilearn), [scipy](https://github.com/scipy/scipy) ..."
 
 
 publications:
