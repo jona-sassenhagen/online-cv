@@ -2,8 +2,7 @@ sidebar:
     # Site Settings
     title: My Resume
     url: 'https://jona-sassenhagen.github.io/cv/'
-    #about: true # set to False or comment line if you want to remove the "How 
-to use?" in the sidebar
+    #about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Jona Sassenhagen
