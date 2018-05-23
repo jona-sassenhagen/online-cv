@@ -70,7 +70,7 @@ projects:
       - project:
         title: MNE-Python
         link: "https://www.martinos.org/mne/stable/index.html"
-        tagline: "I am a core contributor to MNE-Python, a free and open analysis suite for EEG and MEG data in Python."
+        tagline: "I am a core contributor to MNE-Python, a free and open analysis suite for EEG and MEG data in Python. I am primarily working on visualisation and statistics."
       - project:
         title: Data Science Portfolio
         link: "https://github.com/jona-sassenhagen/portfolio"
@@ -78,7 +78,7 @@ projects:
       - project:
         title: Minor Contributions
         link: "https://github.com/jona-sassenhagen/"
-        tagline: "I have also made minor contributions to scikit-learn, nilearn, scipy ..."
+        tagline: "I have made minor contributions to scikit-learn, nilearn, scipy ..."
 
 
 publications:
