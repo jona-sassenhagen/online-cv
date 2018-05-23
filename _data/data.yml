@@ -64,8 +64,7 @@ studies:
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+#    intro: "."
     
     projects:
       - project:
@@ -83,8 +82,8 @@ projects:
 
 
 publications:
-    title: Publications
-    intro: "Key publications."
+    title: Key Scientific Publications
+#    intro: "Key scientific publications"
     
     publications:
       - paper:
