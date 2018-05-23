@@ -25,10 +25,10 @@ sidebar:
           idiom: English
           level: Professional
         
-#    interests:
-#        - interest:
-#          item: Climbing
-#          link:
+    interests:
+        - interest:
+          item: Setting up websites via Jekyll!!!
+          link:
 #        - interest:
 #          item: Snowboarding
 #          link:
@@ -70,7 +70,7 @@ projects:
     projects:
       - project:
         title: MNE-Python
-        link: "#hook"
+        link: "https://www.martinos.org/mne/stable/index.html"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 
@@ -83,14 +83,6 @@ publications:
         title: The Art of Computer Programming
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
