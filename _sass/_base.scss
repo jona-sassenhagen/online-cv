@@ -244,6 +244,15 @@ p {
         color: $text-grey;
         margin-bottom: 1px;
     }
+    .publication-journal {
+        color: $text-color;
+        margin-bottom: 1px;
+    }
+    .publication-notes {
+        font-style: italic;
+        color: $text-grey;
+        margin-bottom: 1px;
+    }
     .publications-section {
         .intro {
             margin-bottom: 30px;
