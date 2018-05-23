@@ -76,6 +76,10 @@ projects:
         title: Data Science Portfolio
         link: "https://github.com/jona-sassenhagen/portfolio"
         tagline: "A collection of self-contained data science adventures."
+      - project:
+        title: Minor Contributions
+        link: "https://github.com/jona-sassenhagen/"
+        tagline: "I have also made minor contributions to scikit-learn, nilearn, scipy ..."
 
 
 publications:
@@ -88,9 +92,9 @@ publications:
         authors: "Jona Sassenhagen & Ina Bornkessel-Schlesewsky"
         notes: 'The <a href="https://www.ncbi.nlm.nih.gov/pubmed/25892410">first paper pre-registered under the Cortex Registered Report format.</a>'
       - paper:
-        title: <a href="https://www.ncbi.nlm.nih.gov/pubmed/25151545">The P600-as-P3 hypothesis revisited. Single-trial analyses reveal that the late EEG positivity following linguistically deviant material is reaction time aligned.</a>
+        title: <a href="https://www.ncbi.nlm.nih.gov/pubmed/25151545">Single-trial analyses reveal that the late EEG positivity following linguistically deviant material is reaction time aligned.</a>
         authors: "Jona Sassenhagen, Matthias Schlesewsky & Ina Bornkessel-Schlesewsky"
-        notes: 'This paper is perhaps the first pre-registered basic neuroimaging paper. I have been <href="http://blogs.discovermagazine.com/neuroskeptic/2013/03/23/more-on-preregistration/">interviewed by the incomparable Neuroskeptic</a> over this.'
+        notes: 'This paper is perhaps the <a href="http://blogs.discovermagazine.com/neuroskeptic/2013/02/03/unilaterally-raising-the-scientific-standard/">first</a> pre-registered basic neuroimaging paper. I have been <a href="http://blogs.discovermagazine.com/neuroskeptic/2013/03/23/more-on-preregistration/">interviewed by the incomparable Neuroskeptic</a> over this.'
 
 
 skills:
