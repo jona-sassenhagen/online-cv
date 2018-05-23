@@ -1,43 +1,41 @@
 sidebar:
     # Site Settings
     title: My Resume
-    url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    url: 'https://jona-sassenhagen.github.io/cv/'
+    #about: true # set to False or comment line if you want to remove the "How 
+to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Jona Sassenhagen
+    tagline: Researcher
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: jona.sassenhagen@gmail.com
+    #phone: 012 345 6789
+    #website: blog.webjeda.com #do not add http://
+    #linkedin: alandoe
+    github: jona-sassenhagen
+    #twitter: '@webjeda'
 
     languages:
         - language:
-          idiom: English
+          idiom: German
           level: Native
         - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
+          idiom: English
           level: Professional
         
-    interests:
-        - interest:
-          item: Climbing
-          link:
-        - interest:
-          item: Snowboarding
-          link:
-        - interest:
-          item: Cooking
-          link:
+#    interests:
+#        - interest:
+#          item: Climbing
+#          link:
+#        - interest:
+#          item: Snowboarding
+#          link:
+#        - interest:
+#          item: Cooking
+#          link:
 
         
 
@@ -46,27 +44,23 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: 'I am currently working as a Postdoctoral Researcher at the Goethe-University Frankfurt, in the research group of 
+Christian Fiebach.'
 
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: MA in German Language & Literature
+      university: Universities of Hannover & Marburg
+      time: 2004 - 2009
+#      thesis: 
+#      details: ""
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: PhD in German Language & Literature
+      university: University of Marburg
+      time: 2009-2014
+#      thesis: "
 
 
 projects:
@@ -76,25 +70,9 @@ projects:
     
     projects:
       - project:
-        title: Velocity
+        title: MNE-Python
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-      - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 publications:
@@ -120,23 +98,14 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
-        - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
+          name: Python
           level: 85%
         - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: Matlab
+          level: 50%
+        - skill:
+          name: R
+          level: 33%
 
 
 footer: 
