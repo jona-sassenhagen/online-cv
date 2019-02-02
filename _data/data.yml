@@ -84,8 +84,7 @@ projects:
 
 publications:
     title: Key Scientific Publications
-    intro: For more, see <a href="https://scholar.google.de/citations?hl=en&user=oyAdD34AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
-    
+    intro: I conduct research on the neural correlates of language processing, with a focus on methodological tools (statistics, machine learning, visualisation, signal processing). For more, see <a href="https://scholar.google.de/citations?hl=en&user=oyAdD34AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
     publications:
       - paper:
         title: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13335">Cluster‐based permutation tests of MEG/EEG data do not establish significance of effect latency or location</a>
@@ -107,13 +106,13 @@ skills:
     skills:
         - skill:
           name: Python
-          level: 85%
-        - skill:
-          name: Matlab
-          level: 50%
+          level: 87.5%
         - skill:
           name: R
           level: 50%
+        - skill:
+          name: Matlab
+          level: 40%
         - skill:
           name: SQL
           level: 20%
