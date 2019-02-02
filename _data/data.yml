@@ -27,7 +27,7 @@ sidebar:
         
     interests:
         - interest:
-          item: Setting up websites via Jekyll!!!
+          item: Data analysis
           link:
 #        - interest:
 #          item: Snowboarding
@@ -43,7 +43,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'I am currently working as a Postdoctoral Researcher at the Goethe-University Frankfurt, in the research group of Christian Fiebach.
+    text: 'I am currently working as a Postdoctoral Researcher at the Goethe-University Frankfurt, in the Cognitive Neuroscience research group of Christian Fiebach.
     
     I am highly experienced in analysing neuroimaging data, in particular EEG/MEG, and organize my research around Open Science principles.'
 
@@ -88,6 +88,10 @@ publications:
     
     publications:
       - paper:
+        title: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13335">Cluster‐based permutation tests of MEG/EEG data do not establish significance of effect latency or location</a>
+        authors: "Jona Sassenhagen & Dejan Draschkow"
+        notes: 'Our <href="https://wiley.altmetric.com/details/54483737/twitter">surprisingly impactful</a> paper on a common issue with an important nonparametric resampling-based statistical inference procedure.
+      - paper:
         title: <a href="https://www.ncbi.nlm.nih.gov/pubmed/25791606">The P600 as a correlate of ventral attention network reorientation</a>
         authors: "Jona Sassenhagen & Ina Bornkessel-Schlesewsky"
         notes: 'The <a href="https://www.ncbi.nlm.nih.gov/pubmed/25892410">first paper pre-registered under the Cortex Registered Report format.</a>'
@@ -95,6 +99,7 @@ publications:
         title: <a href="https://www.ncbi.nlm.nih.gov/pubmed/25151545">Single-trial analyses reveal that the late EEG positivity following linguistically deviant material is reaction time aligned.</a>
         authors: "Jona Sassenhagen, Matthias Schlesewsky & Ina Bornkessel-Schlesewsky"
         notes: 'This paper is perhaps the <a href="http://blogs.discovermagazine.com/neuroskeptic/2013/02/03/unilaterally-raising-the-scientific-standard/">first</a> pre-registered basic neuroimaging paper. I have been <a href="http://blogs.discovermagazine.com/neuroskeptic/2013/03/23/more-on-preregistration/">interviewed by the incomparable Neuroskeptic</a> over this.'
+     For more, see <a href="https://scholar.google.de/citations?hl=en&user=oyAdD34AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
 
 
 skills:
@@ -108,7 +113,10 @@ skills:
           level: 50%
         - skill:
           name: R
-          level: 33%
+          level: 50%
+        - skill:
+          name: SQL
+          level: 20%
 
 
 footer: 
