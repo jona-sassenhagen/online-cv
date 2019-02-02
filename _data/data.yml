@@ -90,7 +90,7 @@ publications:
       - paper:
         title: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13335">Cluster‐based permutation tests of MEG/EEG data do not establish significance of effect latency or location</a>
         authors: "Jona Sassenhagen & Dejan Draschkow"
-        notes: 'Our <href="https://wiley.altmetric.com/details/54483737/twitter">surprisingly impactful</a> paper on a common issue with an important nonparametric resampling-based statistical inference procedure.
+        notes: 'Our <href="https://wiley.altmetric.com/details/54483737/twitter">surprisingly impactful</a> paper on a common issue with an important nonparametric resampling-based statistical inference procedure.'
       - paper:
         title: <a href="https://www.ncbi.nlm.nih.gov/pubmed/25791606">The P600 as a correlate of ventral attention network reorientation</a>
         authors: "Jona Sassenhagen & Ina Bornkessel-Schlesewsky"
