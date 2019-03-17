@@ -29,12 +29,12 @@ sidebar:
         - interest:
           item: Data analysis
           link:
-#        - interest:
-#          item: Snowboarding
-#          link:
-#        - interest:
-#          item: Cooking
-#          link:
+#       - interest:
+#         item: Literature & Music
+#         link:
+#       - interest:
+#         item: Cooking
+#         link:
 
         
 
@@ -44,7 +44,7 @@ sidebar:
 career-profile: 
     title: Career Profile
     text: 'I am currently working as a Postdoctoral Researcher at the Goethe-University Frankfurt, in the Cognitive Neuroscience research group of Christian Fiebach.
-    
+
     I am highly experienced in analysing neuroimaging data, in particular EEG/MEG, and organize my research around Open Science principles.'
 
 
@@ -110,14 +110,16 @@ skills:
           level: 85%
         - skill:
           name: Matlab
-          level: 50%
+          level: 45%
         - skill:
           name: R
-          level: 50%
+          level: 45%
         - skill:
           name: SQL
           level: 20%
-
+        - skill:
+          name: Spark
+          level: 15%
 
 footer: 
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
