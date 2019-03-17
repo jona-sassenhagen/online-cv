@@ -29,16 +29,12 @@ sidebar:
         - interest:
           item: Data analysis
           link:
-#       - interest:
-#         item: Literature & Music
-#         link:
-#       - interest:
-#         item: Cooking
-#         link:
-
-        
-
-
+        - interest:
+          item: Literature & Music
+          link:
+        - interest:
+          item: Cooking
+          link:
 
 
 career-profile: 
