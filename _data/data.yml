@@ -45,20 +45,20 @@ career-profile:
 
 
 studies: 
- - education:
-      degree: PostDoc in Cognitive Neuroscience
-      university: University of Frankfurt
-      time: 2015 - 2019
+      - education:
+            degree: PostDoc in Cognitive Neuroscience
+            university: University of Frankfurt
+            time: 2015 - 2019
 
- - education:
-      degree: PhD in Linguistics
-      university: University of Marburg
-      time: 2009 - 2014
+      - education:
+            degree: PhD in Linguistics
+            university: University of Marburg
+            time: 2009 - 2014
 
- - education:
-      degree: MA in German Language & Literature
-      university: Universities of Hannover & Marburg
-      time: 2004 - 2009
+      - education:
+            degree: MA in German Language & Literature
+            university: Universities of Hannover & Marburg
+            time: 2004 - 2009
 #      thesis: 
 #      details: ""
 
