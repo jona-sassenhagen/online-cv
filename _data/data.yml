@@ -72,7 +72,7 @@ projects:
       - project:
         title: ContagionNET
         link: https://www.datarobot.com/news/press/datarobot-introduces-contagionnet-uniting-human-and-machine-intelligence-to-defeat-pandemics/
-        tagline: At DataRobot, I led the modelling team for the <a href="https://www.actiac.org/act-iac-event/emerging-technology-and-innovation-conference-2021#ina-25885">award-winning</a> ContagionNET project, forecasting and optimizing the efficacy of a rapid antigen testing apporach to combatting COVID-19.
+        tagline: At DataRobot, I led the modelling team for the <a href="https://www.actiac.org/act-iac-event/emerging-technology-and-innovation-conference-2021#ina-25885"><e>award-winning</e></a> ContagionNET project, forecasting and optimizing the efficacy of a rapid antigen testing apporach to combatting COVID-19.
       - project:
         title: MNE-Python
         link: "https://www.martinos.org/mne/stable/index.html"
@@ -89,20 +89,20 @@ projects:
 
 publications:
     title: Key Scientific Publications
-    intro: I have conducted research on the neural correlates of language processing, with a focus on methodological tools (statistics, machine learning, visualisation, signal processing). For more, see <a href="https://scholar.google.de/citations?hl=en&user=oyAdD34AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
+    intro: I have conducted research on the neural correlates of language processing, with a focus on methodological tools (statistics, machine learning, visualisation, signal processing). For more, see <a href="https://scholar.google.de/citations?hl=en&user=oyAdD34AAAAJ&view_op=list_works&sortby=pubdate"><e>Google Scholar</e></a>.
     publications:
       - paper:
         title: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13335">Cluster‐based permutation tests of MEG/EEG data do not establish significance of effect latency or location</a>
         authors: "Jona Sassenhagen & Dejan Draschkow"
-        notes: 'Our <a href="https://wiley.altmetric.com/details/54483737/twitter"> surprisingly impactful</a> paper on a common issue with an important nonparametric resampling-based statistical inference procedure.'
+        notes: 'Our <a href="https://wiley.altmetric.com/details/54483737/twitter"> <e>surprisingly impactful</e></a> paper on a common issue with an important nonparametric resampling-based statistical inference procedure.'
       - paper:
         title: <a href="https://www.ncbi.nlm.nih.gov/pubmed/25791606">The P600 as a correlate of ventral attention network reorientation</a>
         authors: "Jona Sassenhagen & Ina Bornkessel-Schlesewsky"
-        notes: 'The <a href="https://www.ncbi.nlm.nih.gov/pubmed/25892410">first paper pre-registered under the Cortex Registered Report format.</a>'
+        notes: 'The <a href="https://www.ncbi.nlm.nih.gov/pubmed/25892410"><e>first paper pre-registered under the Cortex Registered Report format.<.e></a>'
       - paper:
         title: <a href="https://www.ncbi.nlm.nih.gov/pubmed/25151545">Single-trial analyses reveal that the late EEG positivity following linguistically deviant material is reaction time aligned.</a>
         authors: "Jona Sassenhagen, Matthias Schlesewsky & Ina Bornkessel-Schlesewsky"
-        notes: 'This paper is perhaps the <a href="http://blogs.discovermagazine.com/neuroskeptic/2013/02/03/unilaterally-raising-the-scientific-standard/">first</a> pre-registered basic neuroimaging paper. I have been <a href="http://blogs.discovermagazine.com/neuroskeptic/2013/03/23/more-on-preregistration/">interviewed by the incomparable Neuroskeptic</a> over this.'
+        notes: 'This paper is perhaps the <a href="http://blogs.discovermagazine.com/neuroskeptic/2013/02/03/unilaterally-raising-the-scientific-standard/"><e>first</e></a> pre-registered basic neuroimaging paper. I have been <a href="http://blogs.discovermagazine.com/neuroskeptic/2013/03/23/more-on-preregistration/"><e>interviewed by the incomparable Neuroskeptic</e></a> over this.'
      
 
 
