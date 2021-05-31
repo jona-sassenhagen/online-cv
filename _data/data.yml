@@ -71,8 +71,8 @@ projects:
     projects:
       - project:
         title: ContagionNET
-        link: https://www.actiac.org/act-iac-event/emerging-technology-and-innovation-conference-2021#ina-25885
-        tagline: At DataRobot, I led the modelling team for the award-winning ContagionNET project, forecasting and optimizing the efficacy of a rapid antigen testing apporach to combatting COVID-19.
+        link: https://www.datarobot.com/news/press/datarobot-introduces-contagionnet-uniting-human-and-machine-intelligence-to-defeat-pandemics/
+        tagline: At DataRobot, I led the modelling team for the <a href="https://www.actiac.org/act-iac-event/emerging-technology-and-innovation-conference-2021#ina-25885">award-winning</a> ContagionNET project, forecasting and optimizing the efficacy of a rapid antigen testing apporach to combatting COVID-19.
       - project:
         title: MNE-Python
         link: "https://www.martinos.org/mne/stable/index.html"
